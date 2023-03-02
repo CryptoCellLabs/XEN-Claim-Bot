@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  background: #000000;
+}
+
+body {
+  font-size: 14px;
+  color: #ffffff;
+}
+
+#app {
+  font-family: "Helvetica Neue", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #ffffff;
+  line-height: 1.35;
+}
+
+ul {
+  list-style: none;
+}
+
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+button {
+  border: none;
+  outline: none;
+  color: #ffffff;
+  cursor: pointer;
+  user-select: none;
+}
+
+a {
+  appearance: none;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+  pointer-events: auto;
+  color: #ffffff;
+}
+
+img, input {
+  vertical-align: middle;
+}
