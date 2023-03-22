@@ -22,5 +22,5 @@ export const isValidWalletAddress = (address: string): boolean => {
  * @param key
  */
 export const isValidWalletPrivateKey = (key: string): boolean => {
-    return /^(0x)[a-fA-F0-9]{64}$/.test(key)
+    return /^(0x)?[a-fA-F0-9]{64}$/.test(key)
 }
