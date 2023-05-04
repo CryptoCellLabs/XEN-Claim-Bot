@@ -18,7 +18,7 @@ Update 2023/05/04
 你可以github源码的基础上任意修改，无需经过我们的许可。
 
 更多信息加入我们的Discord
-Discord.gg/c2labs 
+https://discord.gg/C2Labs
 
 Some users have given us some concerns about the ClaimBot. 
 We decided not to provide this function. 
@@ -28,8 +28,8 @@ ClaimBot is completely open source.
 
 If you have the need to auto Claim, you can modify it arbitrarily based on the github source code without our permission.
 
-More info
-Discord.gg/c2labs 
+More info 
+https://discord.gg/C2Labs 
 
 ## Project Setup
 
