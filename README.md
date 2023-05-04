@@ -11,11 +11,14 @@ XEN-Claim-Bot 是一个用于Claim XEN 的自动化机器人工具。由于 EVM 
 ------------------------------
 Update 2023/05/04
 ------------------------------
-一些用户给我们反馈ClaimBot使用上的一些担忧，我们综合征求了用户意见后决定不再提供这个功能。
+一些用户给我们反馈ClaimBot使用上的一些担忧，我们综合征求了用户意见后决定不再在 XENTurbo.io 站点提供这个功能。
 
 如果你还需要这个自动化工具，请自行到Github上下载到本地运行，ClaimBot已经完全开源。
 
 你可以github源码的基础上任意修改，无需经过我们的许可。
+
+更多信息加入我们的Discord
+Discord.gg/c2labs 
 
 Some users have given us some concerns about the ClaimBot. 
 We decided not to provide this function. 
@@ -25,6 +28,8 @@ ClaimBot is completely open source.
 
 If you have the need to auto Claim, you can modify it arbitrarily based on the github source code without our permission.
 
+More info
+Discord.gg/c2labs 
 
 ## Project Setup
 
